@@ -8,6 +8,7 @@ namespace StaticUserCounterMCSDemo
 {
   public class User
     {
+        //..
         private int duration;
         static private int count; //used to track of the total number of user ojbects we have created
         static public int Count
